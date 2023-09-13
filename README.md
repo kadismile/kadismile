@@ -1,11 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Ibrahim Abubakar Sediq</h1>
 <h3 align="center">A passionate Full-Stack Engineer from Nigeria (Backend Heavy)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadismile&label=Profile%20views&color=0e75b6&style=flat" alt="kadismile" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadismile" alt="kadismile" /></a> </p>
 
 - 🔭 I’m currently working on [Xtakee](xtakee.com)
 
